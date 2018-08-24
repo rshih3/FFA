@@ -1,0 +1,22 @@
+.row {
+    margin-left:0;
+    margin-right: 0;
+}
+form {
+    position: fixed;
+    right: 10px;
+    bottom: 0;
+    z-index: 1030;
+    height: 50px;
+}
+#comments-list {
+    margin-bottom: 4rem;
+    -webkit-padding-start:0;
+}
+li {
+    list-style-type: none;
+    padding: 1rem 0;
+}
+.btn {
+    height: calc(2.25rem + 2px);
+}
